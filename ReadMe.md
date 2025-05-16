@@ -70,8 +70,6 @@ Here's an example of the JSON structure for a single link:
 ```json
 
 
-![image](https://github.com/user-attachments/assets/d0dd2e16-85ac-449e-8453-93d6498cea84)
-
 {
   "source": "telegram",
   "url": "http://exampleabcdefg.onion/path",
@@ -79,3 +77,8 @@ Here's an example of the JSON structure for a single link:
   "context": "Found in @toronionlinks",
   "status": "pending"
 }
+
+```
+![image](https://github.com/user-attachments/assets/f005afb5-3b99-4ba8-aa5d-5ec1b3e03043)
+
+
