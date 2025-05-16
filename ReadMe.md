@@ -68,6 +68,10 @@ Each discovered link is written as a JSON object on its own line in the output f
 Here's an example of the JSON structure for a single link:
 
 ```json
+
+
+![image](https://github.com/user-attachments/assets/d0dd2e16-85ac-449e-8453-93d6498cea84)
+
 {
   "source": "telegram",
   "url": "http://exampleabcdefg.onion/path",
